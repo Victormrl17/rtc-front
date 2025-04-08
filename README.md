@@ -18,7 +18,7 @@ Este proyecto es una aplicación frontend desarrollada con **React**, **TypeScri
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/rtc-front.git
+   git clone https://github.com/Victormrl17/rtc-front.git
    cd rtc-front
    ```
 
