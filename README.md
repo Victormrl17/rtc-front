@@ -137,11 +137,10 @@ Este proyecto está bajo la licencia **MIT**. Consulta el archivo `LICENSE` para
 
 ## Autor
 
-Desarrollado por **Victor**. Si tienes preguntas o sugerencias, no dudes en contactarme.
+Desarrollado por **Victor Ramirez**. Si tienes preguntas o sugerencias, no dudes en contactarme.
 
 ---
 
 ### Notas adicionales
 
 - Asegúrate de que el backend esté corriendo antes de iniciar la aplicación.
-- Si necesitas cambiar el puerto de desarrollo, edita el archivo `vite.config.ts`.
